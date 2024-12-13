@@ -1,1 +1,2 @@
-Assignments Completed at UNCC Charlotte and Personal Learning Experiences. 
+#C Practice
+"This is a collection of practice programs I created in C to demonstrate different uses and scenarios. Each file is its own program individually."
