@@ -3,7 +3,7 @@
 This is a collection of practice programs I created in C to demonstrate different uses and scenarios. Each file is its own program individually.
 
 ## Backend:
-- C v.C17
+- `.c` C v.C17
 - `.txt` databases
 
 ## Tools:
