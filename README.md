@@ -1,1 +1,12 @@
-Assignments Completed at UNCC Charlotte and Personal Learning Experiences. 
+# C Practice
+
+This is a collection of practice programs I created in C to demonstrate different uses and scenarios. Each file is its own program individually.
+
+## Backend:
+- `.c` C v.C17
+- `.txt` databases
+
+## Tools:
+- Git and GitHub for version control
+- Replit for web-based editing
+- Visual Studio Code for local editing
